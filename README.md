@@ -92,7 +92,7 @@ go-clean-architecture/
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 ```mermaid
 flowchart TD
