@@ -94,7 +94,7 @@ go-clean-architecture/
 
 ## Architecture Overview
 
-```mermaid
+```
 flowchart TD
     A[Client] --> B[Middleware (Auth/RateLimit/Logger)]
     B --> C[Handler (API)]
